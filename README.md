@@ -1,4 +1,5 @@
-### 🚀 Phase I — Environment Setup 🧱  
+
+# 🚀 Phase I — Environment Setup 🧱  
 
 ## 🎯 Goals — Phase I 🧱
 
